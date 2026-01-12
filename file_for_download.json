@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Obligacje 3-miesięczne OTS",
+        "series": "OTS0426",
+        "bond_type": "fixed",
+        "purchase_price": 100,
+        "conversion_price": 100,
+        "duration_years": 0.25,
+        "capitalized": false,
+        "base_interest": 0.025,
+        "margin": 0.0,
+        "early_redemption_fee": 0,
+        "eighthundred_plus_exclusive": false
+    },
+    {
+        "name": "Obligacje roczne ROR",
+        "series": "ROR0127",
+        "bond_type": "floating",
+        "purchase_price": 100,
+        "conversion_price": 99.9,
+        "duration_years": 1,
+        "capitalized": false,
+        "base_interest": 0.0425,
+        "margin": 0,
+        "early_redemption_fee": 0.5,
+        "eighthundred_plus_exclusive": false
+    },
+    {
+        "name": "Obligacje 2-letnie DOR",
+        "series": "DOR0128",
+        "bond_type": "floating",
+        "purchase_price": 100,
+        "conversion_price": 99.9,
+        "duration_years": 2,
+        "capitalized": false,
+        "base_interest": 0.044,
+        "margin": 0,
+        "early_redemption_fee": 0.7,
+        "eighthundred_plus_exclusive": false
+    },
+    {
+        "name": "Obligacje 3-letnie TOS",
+        "series": "TOS0129",
+        "bond_type": "fixed",
+        "purchase_price": 100,
+        "conversion_price": 99.9,
+        "duration_years": 3,
+        "capitalized": true,
+        "base_interest": 0.0465,
+        "margin": 0,
+        "early_redemption_fee": 1,
+        "eighthundred_plus_exclusive": false
+    },
+    {
+        "name": "Obligacje 4-letnie COI",
+        "series": "COI0130",
+        "bond_type": "inflation_indexed",
+        "purchase_price": 100,
+        "conversion_price": 99.9,
+        "duration_years": 4,
+        "capitalized": false,
+        "base_interest": 0.05,
+        "margin": 0.015,
+        "early_redemption_fee": 2,
+        "eighthundred_plus_exclusive": false
+    },
+    {
+        "name": "Obligacje 10-letnie EDO",
+        "series": "EDO0136",
+        "bond_type": "inflation_indexed",
+        "purchase_price": 100,
+        "conversion_price": 99.9,
+        "duration_years": 10,
+        "capitalized": true,
+        "base_interest": 0.056,
+        "margin": 0.02,
+        "early_redemption_fee": 3,
+        "eighthundred_plus_exclusive": false
+    },
+    {
+        "name": "Obligacje 6-letnie ROS",
+        "series": "ROS0132",
+        "bond_type": "inflation_indexed",
+        "purchase_price": 100,
+        "conversion_price": 100,
+        "duration_years": 6,
+        "capitalized": true,
+        "base_interest": 0.052,
+        "margin": 0.02,
+        "early_redemption_fee": 2,
+        "eighthundred_plus_exclusive": true
+    },
+    {
+        "name": "Obligacje 12-letnie ROD",
+        "series": "ROD0138",
+        "bond_type": "inflation_indexed",
+        "purchase_price": 100,
+        "conversion_price": 100,
+        "duration_years": 12,
+        "capitalized": true,
+        "base_interest": 0.0585,
+        "margin": 0.025,
+        "early_redemption_fee": 3,
+        "eighthundred_plus_exclusive": true
+    }
+]
+
+
+
+
+
